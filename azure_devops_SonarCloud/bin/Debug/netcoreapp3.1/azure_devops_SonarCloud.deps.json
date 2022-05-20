@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "azure_devops_SonarCloud/1.0.0": {
+        "runtime": {
+          "azure_devops_SonarCloud.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "azure_devops_SonarCloud/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
