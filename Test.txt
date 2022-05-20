@@ -1,1 +1,0 @@
-Integrate SonarCloud to validate code quality
