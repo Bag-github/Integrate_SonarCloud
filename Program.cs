@@ -6,7 +6,7 @@ namespace azure_devops_SonarCloud
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Test application!");
         }
     }
 }
